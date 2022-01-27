@@ -31,6 +31,17 @@ p {
   padding: 7% 15%;
 }
 
+/* Sections */
+
+.color-section {
+  background-color: #ff4c68;
+  color: white;
+}
+
+.white-section {
+  background-color: #fff;
+}
+
 /* Navigation Bar */
 
 .navbar {
@@ -54,14 +65,9 @@ p {
 
 /* Title Section */
 
-#title {
-  background-color: #ff4c68;
-  color: white;
-  text-align: left;
-}
-
 #title .container-fluid {
   padding: 3% 15% 7%;
+  text-align: left;
 }
 
 .title-img {
@@ -104,7 +110,6 @@ result is a huge width of 60% of the whole body.*/
 /* Features Section */
 
 #features {
-  background-color: #fff;
   position: relative;
 }
 
@@ -135,7 +140,6 @@ result is a huge width of 60% of the whole body.*/
 
 #testimonials {
   background-color: #ef8172;
-  color: #fff;
 }
 
 .testimonial-text {
@@ -183,18 +187,8 @@ result is a huge width of 60% of the whole body.*/
   padding: 3% 2%;
 }
 
-/* Call to Action section */
-
-#cta {
-  background-color: #ff4c68;
-  color: #fff;
-}
 
 /* Footer Section */
-
-#footer {
-  background-color: #fff;
-}
 
 .footer-div {
   margin-bottom: 1%;
